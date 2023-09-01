@@ -1,4 +1,4 @@
-
+﻿
 
 --Clonar local
 
@@ -22,9 +22,12 @@ git push -u origin main
 
 touch .gitignore
 
- 
 
-
-
-
-
+Nombre             |Github 
+-------------------|-----------------|
+Bryan              |PaulRazon        | 
+-------------------|-----------------|
+Andres             |andrestian01     |
+-------------------|-----------------|
+Victor             |XxXelbichoXxX    |
+-------------------|-----------------|
