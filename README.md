@@ -12,8 +12,6 @@ echo "# iw2023ittepic" >> README.md
 
 git commit -m "Initial commit"
 
-git remote add origin https://github.com/edramontoyava/iw2023ittepic.git
-
 git branch -M main
 
 git push -u origin main
