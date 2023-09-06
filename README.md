@@ -42,7 +42,7 @@ git tag -a v0.1 -m 'v0.1'
 
 --estrellas
 
-![Alt text](image-2.png)
+![Alt text](assets/6.png)
 
 --tabla
 
