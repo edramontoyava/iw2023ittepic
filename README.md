@@ -1,6 +1,12 @@
-﻿--Clonar local
+﻿--crear repositorio
+
+![Alt text](assets/1.png)
+
+--Clonar local
 
 #git clone https://github.com/edramontoyava/iw2023ittepic.git
+
+![Alt text](assets/2.png)
 
 --Anadir readme.md
 
@@ -14,16 +20,37 @@ git branch -M main
 
 git push -u origin main
 
---Tag
-git tag -a v0.1 -m 'v0.1'
-
 --gitignore
 
 touch .gitignore
 
+--Tag
+
+git tag -a v0.1 -m 'v0.1'
+
+--foto
+
+![Alt text](assets/3.png)
+
+--autenticacion
+
+![Alt text](assets/4.png)
+
+--Companeros
+
+![Alt text](assets/5.png)
+
+--estrellas
+
+![Alt text](image-2.png)
+
+--tabla
 
 Nombre             |Github 
 -------------------|-----------------|
 Bryan              |PaulRazon        | 
 Andres             |andrestian01     |
 Victor             |XxXelbichoXxX    |
+
+--colaborador
+![Alt text](assets/7.png)
