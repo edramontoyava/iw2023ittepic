@@ -54,3 +54,11 @@ Victor             |XxXelbichoXxX    |
 
 --colaborador
 ![Alt text](assets/7.png)
+
+--regresar a la rama principal
+
+git checkout main -f
+
+--hacer un merage de las ramas
+
+git merge v0.2 main
