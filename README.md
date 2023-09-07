@@ -55,6 +55,7 @@ Victor             |XxXelbichoXxX    |
 --colaborador
 ![Alt text](assets/7.png)
 
+<<<<<<< HEAD
 --regresar a la rama principal
 
 git checkout main -f
@@ -62,3 +63,20 @@ git checkout main -f
 --hacer un merage de las ramas
 
 git merge v0.2 main
+=======
+--crear rama
+
+git branch 'v0.2'
+
+--Posicionarse sobre la nueva rama 
+
+git checkout 'v0.2'
+
+![Alt text](assets/8.png)
+
+--2.txt
+![Alt text](assets/9.png)
+
+--subir cambios
+git push origin v0.2
+>>>>>>> v0.2
