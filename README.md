@@ -54,3 +54,18 @@ Victor             |XxXelbichoXxX    |
 
 --colaborador
 ![Alt text](assets/7.png)
+
+--crear rama
+
+git branch 'v0.2'
+
+--Posicionarse sobre la nueva rama 
+
+git checkout 'v0.2'
+
+![Alt text](assets/8.png)
+
+--2.txt
+![Alt text](assets/9.png)
+
+--subir cambios
