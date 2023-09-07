@@ -69,3 +69,4 @@ git checkout 'v0.2'
 ![Alt text](assets/9.png)
 
 --subir cambios
+git push origin v0.2
